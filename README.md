@@ -10,8 +10,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<img align=”right” alt=”coding” width-”400” src=”https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif”>
-
 - 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **Html,Css,Tailwind(CSS)**
