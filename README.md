@@ -2,7 +2,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_kitf33FnNmKIlRSTS3GDNs3Trsuz8riT51mrFG0WBSGXZDuSIgwIOSDd91sevs1QCI&usqp=CAU)
 
 
-<h1 align="center">Hi 👋, I'm Rishi Bhurane</h1>
+<h1 align="center">Hi 👋, I'm Rishikesh Bhuraane</h1>
 <h3 align="center">developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-devcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-devcode" /> </p>
